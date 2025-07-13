@@ -63,7 +63,7 @@ Berikut adalah beberapa teknologi yang saya kuasai:
 
 ---
 
-### 📊 My GitHub Stats
+<!-- ### 📊 My GitHub Stats
 
 <table>
   <tr>
@@ -79,7 +79,7 @@ Berikut adalah beberapa teknologi yang saya kuasai:
       <img src="https://nirzak-streak-stats.vercel.app/?user=orangbaruuuu&theme=dark&hide_border=false" alt="GitHub Streak"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
