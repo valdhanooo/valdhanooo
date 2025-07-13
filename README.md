@@ -73,7 +73,7 @@ Berikut adalah beberapa teknologi yang saya kuasai:
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangbaruuuu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
     </td> -->
-  </tr>
+  <!-- </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=orangbaruuuu&theme=dark&hide_border=false" alt="GitHub Streak"/>
